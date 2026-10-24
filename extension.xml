@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root version="3.3">
+	<properties>
+		<name>Kraken AD&amp;D Character Sheets</name>
+		<version>1.1.0</version>
+		<loadorder>52</loadorder>
+		<description>
+			<text>Restyles the AD&amp;D 2E character sheet with a larger portrait and roomier layout.</text>
+			<author>The Kraken</author>
+		</description>
+		<ruleset>
+			<name>2E</name>
+		</ruleset>
+	</properties>
+
+	<base>
+		<includefile source="campaign/record_char.xml" />
+	</base>
+</root>
